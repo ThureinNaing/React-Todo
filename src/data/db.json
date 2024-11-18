@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "0.9978806827215235",
+      "title": "apple",
+      "completed": true
+    },
+    {
+      "id": "0.9917584933581521",
+      "title": "orange",
+      "completed": false
+    },
+    {
+      "id": "0.13954717050385046",
+      "title": " mangoes",
+      "completed": false
+    },
+    {
+      "id": "0.057732638442346995",
+      "title": "stawberry",
+      "completed": false
+    }
+  ]
+}
